@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./csuetoniitranqu01suetgoog_0451.png"; bbox 0 0 848 1352; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 213 79 818 835">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 213 79 818 835">
+     <span class='ocr_line' id='line_1_1' title="bbox 213 79 818 835; baseline 0 517"><span class='ocrx_word' id='word_1_1' title='bbox 213 79 818 835; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 556 1175 814 1233">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 556 1175 814 1233">
+     <span class='ocr_line' id='line_1_2' title="bbox 556 1175 814 1233; baseline 0.023 -6"><span class='ocrx_word' id='word_1_2' title='bbox 556 1165 814 1270; x_wconf 67' lang='grc' dir='ltr'><strong>ΙΠΠΠΠΠΠΠΠΠΠΠΠΠΠ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 790 1185 813 1233; x_wconf 73' lang='grc' dir='ltr'><strong>ΠΠ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 261 1196 755 1314">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 261 1196 755 1314">
+     <span class='ocr_line' id='line_1_3' title="bbox 261 1196 755 1314; baseline 0.026 -72"><span class='ocrx_word' id='word_1_4' title='bbox 261 1215 495 1314; x_wconf 32' lang='grc' dir='ltr'>ᾖ</span> <span class='ocrx_word' id='word_1_5' title='bbox 532 1196 534 1254; x_wconf 48' lang='grc' dir='ltr'><strong>Π</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 557 1232 569 1250; x_wconf 85' lang='grc'>3</span> <span class='ocrx_word' id='word_1_7' title='bbox 586 1233 641 1252; x_wconf 75' lang='grc'><strong>2044</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 657 1234 705 1270; x_wconf 83' lang='lat'><strong>⁰.⁵⁵</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 708 1236 755 1270; x_wconf 98' lang='grc'><strong>07</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
